@@ -127,51 +127,49 @@ export default function App() {
             )}
 
             {/* MENU MOBILE – ÍCONE DE 3 TRACINHOS */}
-            {isMobile && (
-              <button
-                type="button"
-                onClick={() => setMenuAberto((aberto) => !aberto)}
-                aria-label="Abrir menu"
-                style={{
-                  background: "transparent",
-                  border: "none",
-                  padding: 4,
-                  marginRight: 4,
-                  cursor: "pointer",
-                  display: "flex",
-                  flexDirection: "column",
-                  gap: 4,
-                }}
-              >
-                <span
-                  style={{
-                    width: 18,
-                    height: 2,
-                    borderRadius: 999,
-                    backgroundColor: "#f9fafb",
-                    alignSelf: "flex-end",
-                  }}
-                />
-                <span
-                  style={{
-                    width: 18,
-                    height: 2,
-                    borderRadius: 999,
-                    backgroundColor: "#f9fafb",
-                    alignSelf: "flex-end",
-                  }}
-                />
-                <span
-                  style={{
-                    width: 18,
-                    height: 2,
-                    borderRadius: 999,
-                    backgroundColor: "#f9fafb",
-                    alignSelf: "flex-end",
-                  }}
-                />
-              </button>
-            )}
+  {isMobile && (
+  <button
+    type="button"
+    onClick={() => setMenuAberto((aberto) => !aberto)}
+    aria-label="Abrir menu"
+    style={{
+      background: "transparent",
+      border: "none",
+      padding: 8,
+      marginRight: 16,     // AUMENTA o espaçamento da borda
+      cursor: "pointer",
+      display: "flex",
+      flexDirection: "column",
+      gap: 5,
+      alignItems: "flex-end", // garante alinhamento perfeito à direita
+    }}
+  >
+    <span
+      style={{
+        width: 22,          // aumenta um pouco → mais proporcional
+        height: 3,
+        borderRadius: 999,
+        backgroundColor: "#f9fafb",
+      }}
+    />
+    <span
+      style={{
+        width: 22,
+        height: 3,
+        borderRadius: 999,
+        backgroundColor: "#f9fafb",
+      }}
+    />
+    <span
+      style={{
+        width: 22,
+        height: 3,
+        borderRadius: 999,
+        backgroundColor: "#f9fafb",
+      }}
+    />
+  </button>
+)}
           </div>
 
           {/* MENU MOBILE DROPDOWN */}
