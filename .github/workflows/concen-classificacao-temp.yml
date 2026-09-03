@@ -1,15 +1,15 @@
 name: Extrair classificação CONCEN (temporário)
 
 on:
-  push:
-    paths:
-      - '.github/workflows/concen-classificacao-temp.yml'
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
 
 jobs:
   extrair:
+    if: contains(github.event.issue.title, '[EXECUTAR-CONCEN]')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -70,10 +70,8 @@ jobs:
                           matched.append(original)
                   if not matched:
                       continue
-
                   groups = sorted(set('G'+m.group(1) for m in re.finditer(r'\bG\s*([1-6])\b', row_text, flags=re.I)))
                   if not groups:
-                      # Try isolated numeric group only when a cell is exactly 1..6.
                       exact_nums = [v for v in vals if re.fullmatch(r'[1-6](?:\.0)?', v)]
                       if len(exact_nums) == 1:
                           groups = ['G'+exact_nums[0][0]]
@@ -82,7 +80,6 @@ jobs:
                   for member in set(matched):
                       candidates[member].append(entry)
 
-          # Structured header search.
           for sheet in xls.sheet_names:
               for h in range(0, 15):
                   try:
