@@ -1,0 +1,1294 @@
+{
+  "download_bytes": 271457,
+  "sheets": [
+    "municipios",
+    "legenda grupos"
+  ],
+  "sheet_previews": {
+    "municipios": [
+      [
+        "REGIÃO",
+        "UF",
+        "IBGE",
+        "MUNICÍPIO",
+        "IVS",
+        "CATEGORIA DO IVS",
+        "GRUPOS"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210408",
+        "FERNANDO FALCAO",
+        "0.784",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210055",
+        "AMAPA DO MARANHAO",
+        "0.773",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "PA",
+        "150100",
+        "AVEIRO",
+        "0.769",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210500",
+        "HUMBERTO DE CAMPOS",
+        "0.764",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210510",
+        "ICATU",
+        "0.759",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "211027",
+        "SANTO AMARO DO MARANHAO",
+        "0.757",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "AM",
+        "130370",
+        "SANTO ANTONIO DO ICA",
+        "0.745",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "PA",
+        "150600",
+        "PRAINHA",
+        "0.744",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "AM",
+        "130230",
+        "JUTAI",
+        "0.743",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "PA",
+        "150830",
+        "VISEU",
+        "0.741",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210825",
+        "PEDRO DO ROSARIO",
+        "0.74",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210130",
+        "BACURI",
+        "0.733",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "PA",
+        "150030",
+        "AFUA",
+        "0.729",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210312",
+        "CENTRAL DO MARANHAO",
+        "0.727",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "AM",
+        "130160",
+        "FONTE BOA",
+        "0.726",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Norte",
+        "AM",
+        "130020",
+        "ATALAIA DO NORTE",
+        "0.723",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210805",
+        "PAULINO NEVES",
+        "0.72",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "210535",
+        "ITAIPAVA DO GRAJAU",
+        "0.719",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ],
+      [
+        "Nordeste",
+        "MA",
+        "211040",
+        "SAO BENEDITO DO RIO PRETO",
+        "0.719",
+        "5 - Muito alta vulnerabilidade",
+        "G1"
+      ]
+    ],
+    "legenda grupos": [
+      [
+        "Grupo ",
+        "Denominação ",
+        "Critérios de enquadramento "
+      ],
+      [
+        "G1 ",
+        "Maior prioridade ",
+        "Municípios enquadrados no art. 19-B da Lei nº 12.871/2013, faixa de incentivo de 80%. "
+      ],
+      [
+        "G2 ",
+        "Alta prioridade ",
+        "Municípios enquadrados no art. 19-B da Lei nº 12.871/2013, faixa de incentivo de 40%. "
+      ],
+      [
+        "G3 ",
+        "Prioridade intermediária ",
+        "Municípios do art. 19-A da Lei nº 12.871/2013, na faixa de 10 e com IVS alto ou muito alto. "
+      ],
+      [
+        "G4 ",
+        "Vulnerabilidade média ",
+        "Municípios com IVS médio. "
+      ],
+      [
+        "G5 ",
+        "Vulnerabilidade baixa ",
+        "Municípios com IVS baixo. "
+      ],
+      [
+        "G6 ",
+        "Menor prioridade ",
+        "Municípios com IVS muito baixo. "
+      ]
+    ]
+  },
+  "matched_rows": [
+    {
+      "sheet": "municipios",
+      "row_excel": 287,
+      "values": [
+        "Norte",
+        "AM",
+        "130406",
+        "TABATINGA",
+        "0.577",
+        "5 - Muito alta vulnerabilidade",
+        "G2"
+      ],
+      "matched": [
+        "Tabatinga"
+      ],
+      "groups": [
+        "G2"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 866,
+      "values": [
+        "Nordeste",
+        "MA",
+        "210310",
+        "CEDRAL",
+        "0.494",
+        "4 - Alta vulnerabilidade",
+        "G3"
+      ],
+      "matched": [
+        "Cedral"
+      ],
+      "groups": [
+        "G3"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 2030,
+      "values": [
+        "Sul",
+        "PR",
+        "410655",
+        "CORUMBATAI DO SUL",
+        "0.397",
+        "3 - Média vulnerabilidade",
+        "G4"
+      ],
+      "matched": [
+        "Corumbataí"
+      ],
+      "groups": [
+        "G4"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 2168,
+      "values": [
+        "Nordeste",
+        "PE",
+        "261500",
+        "TAQUARITINGA DO NORTE",
+        "0.385",
+        "3 - Média vulnerabilidade",
+        "G4"
+      ],
+      "matched": [
+        "Taquaritinga"
+      ],
+      "groups": [
+        "G4"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 2391,
+      "values": [
+        "Norte",
+        "TO",
+        "171150",
+        "JAU DO TOCANTINS",
+        "0.365",
+        "3 - Média vulnerabilidade",
+        "G4"
+      ],
+      "matched": [
+        "Jahu"
+      ],
+      "groups": [
+        "G4"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 2507,
+      "values": [
+        "Sudeste",
+        "SP",
+        "353020",
+        "MIRANTE DO PARANAPANEMA",
+        "0.356",
+        "3 - Média vulnerabilidade",
+        "G4"
+      ],
+      "matched": [
+        "Paranapanema"
+      ],
+      "groups": [
+        "G4"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 2676,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350560",
+        "BARRINHA",
+        "0.342",
+        "3 - Média vulnerabilidade",
+        "G4"
+      ],
+      "matched": [
+        "Barrinha"
+      ],
+      "groups": [
+        "G4"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 2782,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350670",
+        "BOA ESPERANCA DO SUL",
+        "0.335",
+        "3 - Média vulnerabilidade",
+        "G4"
+      ],
+      "matched": [
+        "Boa Esperança do Sul"
+      ],
+      "groups": [
+        "G4"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3096,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354690",
+        "SANTA LUCIA",
+        "0.31",
+        "3 - Média vulnerabilidade",
+        "G4"
+      ],
+      "matched": [
+        "Santa Lúcia"
+      ],
+      "groups": [
+        "G4"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3263,
+      "values": [
+        "Sudeste",
+        "SP",
+        "355475",
+        "TRABIJU",
+        "0.299",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Trabiju"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3281,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351930",
+        "IBATE",
+        "0.298",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Ibaté"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3283,
+      "values": [
+        "Sudeste",
+        "SP",
+        "355370",
+        "TAQUARITINGA",
+        "0.298",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Taquaritinga"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3470,
+      "values": [
+        "Sudeste",
+        "SP",
+        "355190",
+        "SEVERINIA",
+        "0.286",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Severínia"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3472,
+      "values": [
+        "Sul",
+        "SC",
+        "420209",
+        "BARRA BONITA",
+        "0.286",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Barra Bonita"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3511,
+      "values": [
+        "Sul",
+        "PR",
+        "412460",
+        "SAO CARLOS DO IVAI",
+        "0.283",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "São Carlos"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3657,
+      "values": [
+        "Sudeste",
+        "SP",
+        "352270",
+        "ITAPOLIS",
+        "0.274",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Itápolis"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3662,
+      "values": [
+        "Sudeste",
+        "SP",
+        "355270",
+        "TABATINGA",
+        "0.274",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Tabatinga"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3751,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350170",
+        "AMERICO BRASILIENSE",
+        "0.269",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Américo Brasiliense"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3753,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351790",
+        "GUARACI",
+        "0.269",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Guaraci"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3851,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351200",
+        "COLINA",
+        "0.264",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Colina"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3908,
+      "values": [
+        "Sudeste",
+        "SP",
+        "352290",
+        "ITAPUI",
+        "0.261",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Itapuí"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 3926,
+      "values": [
+        "Sudeste",
+        "SP",
+        "353150",
+        "MONTE AZUL PAULISTA",
+        "0.26",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Monte Azul Paulista"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4103,
+      "values": [
+        "Sudeste",
+        "SP",
+        "353580",
+        "PARANAPANEMA",
+        "0.25",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Paranapanema"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4108,
+      "values": [
+        "Sul",
+        "PR",
+        "412382",
+        "SANTA LUCIA",
+        "0.25",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Santa Lúcia"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4121,
+      "values": [
+        "Sudeste",
+        "SP",
+        "352930",
+        "MATAO",
+        "0.249",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Matão"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4145,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354290",
+        "RIBEIRAO BONITO",
+        "0.248",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Ribeirão Bonito"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4146,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354700",
+        "SANTA MARIA DA SERRA",
+        "0.248",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Santa Maria da Serra"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4178,
+      "values": [
+        "Sudeste",
+        "SP",
+        "353290",
+        "NOVA EUROPA",
+        "0.246",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Nova Europa"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4287,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351750",
+        "GUAPIACU",
+        "0.24",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Guapiaçu"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4326,
+      "values": [
+        "Sul",
+        "PR",
+        "410920",
+        "GUARACI",
+        "0.238",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Guaraci"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4411,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351685",
+        "GAVIAO PEIXOTO",
+        "0.233",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Gavião Peixoto"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4431,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350090",
+        "ALTAIR",
+        "0.232",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Altair"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4486,
+      "values": [
+        "Sudeste",
+        "SP",
+        "353205",
+        "MOTUCA",
+        "0.229",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Motuca"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4510,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350220",
+        "ANGATUBA",
+        "0.228",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Angatuba"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4540,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354070",
+        "PORTO FERREIRA",
+        "0.226",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Porto Ferreira"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4541,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354370",
+        "RINCAO",
+        "0.226",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Rincão"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4630,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351400",
+        "DOBRADA",
+        "0.22",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Dobrada"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4826,
+      "values": [
+        "Sudeste",
+        "SP",
+        "355470",
+        "TORRINHA",
+        "0.208",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Torrinha"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4902,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351130",
+        "CEDRAL",
+        "0.203",
+        "2 - Baixa vulnerabilidade",
+        "G5"
+      ],
+      "matched": [
+        "Cedral"
+      ],
+      "groups": [
+        "G5"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4948,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354750",
+        "SANTA RITA DO PASSA QUATRO",
+        "0.2",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Santa Rita do Passa Quatro"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 4990,
+      "values": [
+        "Sul",
+        "SC",
+        "421600",
+        "SAO CARLOS",
+        "0.197",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "São Carlos"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5028,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351370",
+        "DESCALVADO",
+        "0.194",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Descalvado"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5040,
+      "values": [
+        "Sul",
+        "PR",
+        "411660",
+        "NOVA AMERICA DA COLINA",
+        "0.193",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Colina"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5044,
+      "values": [
+        "Sul",
+        "SC",
+        "422000",
+        "BALNEARIO RINCAO",
+        "0.193",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Rincão"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5118,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351560",
+        "FERNANDO PRESTES",
+        "0.187",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Fernando Prestes"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5121,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354890",
+        "SAO CARLOS",
+        "0.187",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "São Carlos"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5167,
+      "values": [
+        "Sudeste",
+        "SP",
+        "352680",
+        "LENCOIS PAULISTA",
+        "0.183",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Lençóis Paulista"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5191,
+      "values": [
+        "Sudeste",
+        "SP",
+        "355715",
+        "ZACARIAS",
+        "0.181",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Zacarias"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5209,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351960",
+        "IBITINGA",
+        "0.179",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Ibitinga"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5213,
+      "values": [
+        "Sudeste",
+        "SP",
+        "354140",
+        "PRESIDENTE PRUDENTE",
+        "0.179",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Presidente Prudente"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5247,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350320",
+        "ARARAQUARA",
+        "0.176",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Araraquara"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5284,
+      "values": [
+        "Sudeste",
+        "SP",
+        "355590",
+        "URU",
+        "0.173",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Uru"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5323,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350300",
+        "ARAMINA",
+        "0.167",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Aramina"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5372,
+      "values": [
+        "Sudeste",
+        "SP",
+        "352530",
+        "JAU",
+        "0.161",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Jahu"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5424,
+      "values": [
+        "Sudeste",
+        "SP",
+        "351270",
+        "CORUMBATAI",
+        "0.152",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Corumbataí"
+      ],
+      "groups": [
+        "G6"
+      ]
+    },
+    {
+      "sheet": "municipios",
+      "row_excel": 5483,
+      "values": [
+        "Sudeste",
+        "SP",
+        "350530",
+        "BARRA BONITA",
+        "0.141",
+        "1 - Muito baixa vulnerabilidade",
+        "G6"
+      ],
+      "matched": [
+        "Barra Bonita"
+      ],
+      "groups": [
+        "G6"
+      ]
+    }
+  ]
+}
